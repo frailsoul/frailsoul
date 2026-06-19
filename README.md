@@ -1,8 +1,9 @@
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/ghouls-12300-F6EDBA)
+![Static Badge](https://img.shields.io/badge/poo-12300-892410)
 
-<img width="2827" height="2827" alt="image" src="https://github.com/user-attachments/assets/cdfa6bec-f1de-4e90-973a-c332f53be8c0" />
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2c015a10-36bb-4c25-98e6-80551692bdbe" />
+
 
 
 [rentry](https://rentry.co/linencouch)[ata](https://frailsoul.atabook.org/)
